@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  
+  # 🚀 Khandakar Amir Hamza
+  
+  **Professional Mobile App Developer**
+  
+  **Specialized in Flutter Development**
 
-<!--
-**kh1amirhamza/kh1amirhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ---
+  
+  🌟 **Crafting high-quality mobile applications with a focus on performance and scalability.**
+  
+  🔗 **[Portfolio](https://github.com/kh1amirhamza)** | **[LinkedIn](https://www.linkedin.com/in/your-profile)**
 
-Here are some ideas to get you started:
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge)
+  ![Dart](https://img.shields.io/badge/Dart-Proficient-0175C2?style=for-the-badge)
+  ![GitHub](https://img.shields.io/badge/GitHub-Contributor-black?style=for-the-badge)
+  
+</div>
