@@ -10,27 +10,19 @@ A highly skilled Mobile App Developer with over 3 years of experience, including
 
 ---
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-
-<div style="flex: 1; padding-right: 20px;">
 ### **Key Projects**
 - **[Super Hostel](https://play.google.com/store/apps/details?id=com.superhostelbd.member)**: Flutter-based app with offline functionality.
 - **[Ekayzone S.A](https://play.google.com/store/apps/details?id=com.alikaforklift.ekayzonesa)**: Multi-language support and real-time updates.
 - **[Zentune](https://apps.apple.com/us/app/zentune/id6475215194)**: Location-based features integrated with Google Maps.
-</div>
 
-<div style="width: 2px; background-color: #4CAF50; margin: 0 20px;"></div>
+---
 
-<div style="flex: 1; padding-left: 20px;">
 ### **Core Skills**
 - **Frameworks & Tools:** Flutter, Dart, Java, Firebase, SQLite
 - **State Management:** Riverpod, Bloc, GetX
 - **APIs & Integration:** RESTful APIs, Firebase Push Notifications, Payment Gateways (Stripe, PayPal)
 - **Version Control:** GitHub, GitLab
 - **Design Patterns:** MVVM, Singleton, Factory
-</div>
-
-</div>
 
 ---
 
