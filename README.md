@@ -5,11 +5,6 @@
 
 ---
 
-### **Professional Summary**
-A highly skilled Mobile App Developer with over 3 years of experience, including 2+ years specializing in Flutter. Proven expertise in crafting scalable, high-performance applications with a keen focus on user experience and efficiency.
-
----
-
 ### **Key Projects**
 - **[Super Hostel](https://play.google.com/store/apps/details?id=com.superhostelbd.member)**: Flutter-based app with offline functionality.
 - **[Ekayzone S.A](https://play.google.com/store/apps/details?id=com.alikaforklift.ekayzonesa)**: Multi-language support and real-time updates.
