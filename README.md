@@ -1,21 +1,39 @@
 <div align="center">
-  
-  # 🚀 Khandakar Amir Hamza
-  
-  **Professional Mobile App Developer**
-  
-  **Specialized in Flutter Development**
 
-  ---
-  
-  🌟 **Crafting high-quality mobile applications with a focus on performance and scalability.**
-  
-  🔗 **[Portfolio](https://github.com/kh1amirhamza)** | **[LinkedIn](https://www.linkedin.com/in/your-profile)**
+# 🚀 Khandakar Amir Hamza
 
-  ---
+**Mobile App Developer | Flutter Specialist**
 
-  ![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge)
-  ![Dart](https://img.shields.io/badge/Dart-Proficient-0175C2?style=for-the-badge)
-  ![GitHub](https://img.shields.io/badge/GitHub-Contributor-black?style=for-the-badge)
-  
+---
+
+### **Professional Summary**
+With over 3 years of experience in mobile application development, including more than 2 years specializing in Flutter, I have a strong track record of building scalable and efficient apps. My expertise extends across the full app development lifecycle, from concept to deployment, with a focus on performance and user experience.
+
+---
+
+### **Experience**
+- **Mobile App Developer, Arobil Ltd.** (Jan 2024 – Present)
+- **Mobile App Developer, Neways International Company Ltd** (May 2023 – Dec 2023)
+- **Freelance Mobile App Developer, Fiverr** (Jan 2022 – May 2023)
+
+---
+
+### **Key Projects**
+- **[Super Hostel](https://play.google.com/store/apps/details?id=com.superhostelbd.member)** - A Flutter-based app with robust offline functionality.
+- **[Ekayzone S.A](https://play.google.com/store/apps/details?id=com.alikaforklift.ekayzonesa)** - Integrated multi-language support and real-time updates.
+- **[Zentune](https://apps.apple.com/us/app/zentune/id6475215194)** - Location-based features with Google Maps integration.
+
+---
+
+### **Core Skills**
+- **Frameworks & Tools:** Flutter, Dart, Java, Firebase, SQLite
+- **State Management:** Riverpod, Bloc, GetX
+- **APIs & Integration:** RESTful APIs, Firebase Push Notifications, Payment Gateways (Stripe, PayPal)
+- **Version Control:** GitHub, GitLab
+- **Design Patterns:** MVVM, Singleton, Factory
+
+---
+
+🔗 **[GitHub](https://github.com/kh1amirhamza)** | **[LinkedIn](https://www.linkedin.com/in/kh1amirhamza)**
+
 </div>
