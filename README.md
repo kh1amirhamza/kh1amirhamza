@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; width: 80%; max-width: 800px;">
 
 # 🚀 Khandakar Amir Hamza
 **Mobile App Developer | Flutter Specialist**
@@ -6,14 +6,14 @@
 ---
 
 ### **Professional Summary**
-Over 3 years in mobile app development with 2+ years focused on Flutter. Expertise in building scalable, efficient apps with a strong emphasis on performance and user experience.
+A highly skilled Mobile App Developer with over 3 years of experience, including 2+ years specializing in Flutter. Proven expertise in crafting scalable, high-performance applications with a keen focus on user experience and efficiency.
 
 ---
 
-### **Experience** | **Key Projects**
-- **Mobile App Developer, Arobil Ltd.** *(Jan 2024 – Present)* | **[Super Hostel](https://play.google.com/store/apps/details?id=com.superhostelbd.member)** - Robust offline functionality.
-- **Mobile App Developer, Neways International Company Ltd** *(May 2023 – Dec 2023)* | **[Ekayzone S.A](https://play.google.com/store/apps/details?id=com.alikaforklift.ekayzonesa)** - Multi-language support and real-time updates.
-- **Freelance Mobile App Developer, Fiverr** *(Jan 2022 – May 2023)* | **[Zentune](https://apps.apple.com/us/app/zentune/id6475215194)** - Location-based features with Google Maps integration.
+### **Key Projects**
+- **[Super Hostel](https://play.google.com/store/apps/details?id=com.superhostelbd.member)**: Flutter-based app with offline functionality.
+- **[Ekayzone S.A](https://play.google.com/store/apps/details?id=com.alikaforklift.ekayzonesa)**: Multi-language support and real-time updates.
+- **[Zentune](https://apps.apple.com/us/app/zentune/id6475215194)**: Location-based features integrated with Google Maps.
 
 ---
 
