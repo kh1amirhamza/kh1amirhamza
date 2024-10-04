@@ -21,6 +21,6 @@
 
 ---
 
-🔗 **[GitHub](https://github.com/kh1amirhamza)** | **[LinkedIn](https://www.linkedin.com/in/kh1amirhamza)**
+🔗 **[Stack Overflow](https://stackoverflow.com/users/12000635/kh1amirhamza)** | **[LinkedIn](https://www.linkedin.com/in/kh1amirhamza)**
 
 </div>
