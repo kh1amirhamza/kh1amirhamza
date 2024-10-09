@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; width: 80%; max-width: 800px;">
 
-# 🚀 Khandakar Amir Hamza
+# 🌸 Khandakar Amir Hamza 🌸
 **With over 3 years of experience in mobile application development, including more than 2 years specializing in Flutter, I have a strong track record of building scalable and efficient apps. My expertise extends across the full app development lifecycle, from concept to deployment, with a focus on performance and user experience.**
 
 ---
