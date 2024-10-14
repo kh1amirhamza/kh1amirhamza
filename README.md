@@ -30,7 +30,7 @@ With over 3 years of experience in mobile application development, including mor
 ---
 
 ### 🔗 **Find me on:**
-**[GitHub](https://www.github.com/kh1amirhamza)** | **[Stack Overflow](https://stackoverflow.com/users/12000635/kh1amirhamza)** | **[LinkedIn](https://www.linkedin.com/in/kh1amirhamza)**
+**[LinkedIn](https://www.linkedin.com/in/kh1amirhamza)** | **[Stack Overflow](https://stackoverflow.com/users/12000635/kh1amirhamza)** | **[Twitter](https://x.com/kh1amirhamza)**
 
 </div>
 
