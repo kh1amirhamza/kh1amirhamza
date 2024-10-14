@@ -13,25 +13,26 @@ With over 3 years of experience in mobile application development, including mor
 ---
 
 ### **Core Skills**
-- **Frameworks & Tools:** Flutter, Dart, Java, Firebase, SQLite
+- **Frameworks & Tools:** Flutter, Dart, Java, Firebase, Isar DB
 - **State Management:** Riverpod, Bloc, GetX
-- **APIs & Integrations:** RESTful APIs, Firebase Push Notifications, Payment Gateways (Stripe, PayPal)
+- **APIs & Integrations:** RESTful APIs, FCM, Payment Gateways (PayPal, Stripe, FlutterWave, SSLCommerz)
 - **Version Control:** GitHub, GitLab
 - **Design Patterns:** MVVM, Singleton, Factory
+- **Other Technologies:** Isar, Socket.IO, Agora (Voice/Video Calls), Google Maps Integration
 
 ---
 
 ### **Contributions & Achievements**
-- Contributed to various open-source Flutter packages, helping improve community-driven solutions.
-- Regularly participate in Stack Overflow discussions to support fellow developers.
+- Contributed to the development of cross-platform applications for both Android and iOS, including the successful launch of apps on the Play Store and App Store.
+- Implemented offline capabilities, multi-language support, and payment gateway integrations across various projects.
+- Actively participate in the developer community through open-source contributions and problem-solving on Stack Overflow.
 
 ---
 
 ### 🔗 **Find me on:**
-- **[Stack Overflow](https://stackoverflow.com/users/12000635/kh1amirhamza)** | **[LinkedIn](https://www.linkedin.com/in/kh1amirhamza)**
+- [GitHub](https://www.github.com/kh1amirhamza)** | **[Stack Overflow](https://stackoverflow.com/users/12000635/kh1amirhamza)** | **[LinkedIn](https://www.linkedin.com/in/kh1amirhamza)**
 
 </div>
-
 
 <div align="center">
 
@@ -39,11 +40,10 @@ With over 3 years of experience in mobile application development, including mor
 
 ### Tools & Technologies
 
-<!-- Use Shields.io badges for icons -->
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Isar](https://img.shields.io/badge/Isar-4A90E2?style=for-the-badge&logo=isar&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
