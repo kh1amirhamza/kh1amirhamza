@@ -28,9 +28,26 @@ With over 3 years of experience in mobile application development, including mor
 ---
 
 ### 🔗 **Find me on:**
-- [Stack Overflow](https://stackoverflow.com/users/12000635/kh1amirhamza)
-- [LinkedIn](https://www.linkedin.com/in/kh1amirhamza)
+- **[Stack Overflow](https://stackoverflow.com/users/12000635/kh1amirhamza)** | **[LinkedIn](https://www.linkedin.com/in/kh1amirhamza)**
 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh1amirhamza&show_icons=true)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh1amirhamza&show_icons=true&theme=radical)
+
+### Tools & Technologies
+
+<!-- Use Shields.io badges for icons -->
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</div>
