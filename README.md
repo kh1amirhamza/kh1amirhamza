@@ -5,13 +5,6 @@ With over 3 years of experience in mobile application development, including mor
 
 ---
 
-### **Key Projects**
-- **[Super Hostel](https://play.google.com/store/apps/details?id=com.superhostelbd.member)**: Built a fully offline-capable mobile app using Flutter, improving user engagement for areas with low internet connectivity.
-- **[Ekayzone S.A](https://play.google.com/store/apps/details?id=com.alikaforklift.ekayzonesa)**: Developed multi-language support and real-time data synchronization, improving app accessibility and user retention across regions.
-- **[Zentune](https://apps.apple.com/us/app/zentune/id6475215194)**: Integrated Google Maps for real-time location-based services, optimizing routes and navigation features for over 10,000 active users.
-
----
-
 ### **Core Skills**
 - **Frameworks & Tools:** Flutter, Dart, Java, Firebase, Isar DB
 - **State Management:** Riverpod, Bloc, GetX
