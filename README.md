@@ -31,6 +31,8 @@ With over 3 years of experience in mobile application development, including mor
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh1amirhamza&show_icons=true&theme=radical)
 
+![Visitor Count](https://profile-counter.glitch.me/kh1amirhamza/count.svg)
+
 ### Tools & Technologies
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
