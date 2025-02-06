@@ -24,7 +24,6 @@ With over 3 years of experience in mobile application development, including mor
 
 ### 🔗 **Find me on:**
 **[LinkedIn](https://www.linkedin.com/in/kh1amirhamza)** | **[Stack Overflow](https://stackoverflow.com/users/12000635/kh1amirhamza)** | **[Twitter](https://x.com/kh1amirhamza)**
-
 </div>
 
 <div align="center">
