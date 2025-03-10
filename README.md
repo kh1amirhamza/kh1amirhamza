@@ -1,7 +1,7 @@
 <div align="center" style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; width: 80%; max-width: 800px;">
 
 # 🚀 Khandakar Amir Hamza
-With over 3 years of experience in mobile application development, including more than 2 years specializing in Flutter, I am passionate about creating high-performance, user-friendly mobile apps. Currently, I’m working as a Flutter Developer at RetinaSoft, focusing on building enterprise-level ERP solutions. My expertise spans the entire development lifecycle, from ideation to deployment, with an emphasis on clean architecture and user experience.
+With over 4 years of experience in mobile application development, including more than 2 years specializing in Flutter, I am passionate about creating high-performance, user-friendly mobile apps. Currently, I’m working as a Flutter Developer at RetinaSoft, focusing on building enterprise-level ERP solutions. My expertise spans the entire development lifecycle, from ideation to deployment, with an emphasis on clean architecture and user experience.
 
 ---
 
