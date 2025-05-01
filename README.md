@@ -1,16 +1,16 @@
 <div align="center" style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; width: 80%; max-width: 800px;">
 
 # 🚀 Khandakar Amir Hamza
-With over 4 years of experience in mobile application development, including more than 2 years specializing in Flutter, I am passionate about creating high-performance, user-friendly mobile apps. Currently, I’m working as a Flutter Developer at RetinaSoft, focusing on building enterprise-level ERP solutions. My expertise spans the entire development lifecycle, from ideation to deployment, with an emphasis on clean architecture and user experience.
+With over 4 years of experience in mobile application development, including more than 2 years specializing in Flutter, I am passionate about creating high-performance, user-friendly mobile apps. Currently, I’m working as a Flutter Developer at RetinaSoft, focusing on building enterprise-level ERP, SaS, PoS, HRM & customize solutions. My expertise spans the entire development lifecycle, from ideation to deployment, with an emphasis on clean architecture and user experience.
 
 ---
 
 ### **Core Skills**
-- **Frameworks & Tools:** Flutter, Dart, Java, Firebase, Isar DB
+- **Frameworks & Tools:** Flutter, Dart, Java, Firebase, Hive, Isar DB
 - **State Management:** Riverpod, Bloc, GetX
 - **APIs & Integrations:** RESTful APIs, FCM, Payment Gateways (PayPal, Stripe, FlutterWave, SSLCommerz)
-- **Version Control:** GitHub, GitLab
-- **Design Patterns:** MVVM, Singleton, Factory
+- **CI/CD,Version Control:** CodeMagic, GitHub, GitLab
+- **Design Patterns & Architechture:** DDD with Clean Architecture, MVVM, MVC, SOLID principles, SDLC, Singleton, Factory & so on
 - **Other Technologies:** Isar, Socket.IO, Agora (Voice/Video Calls), Google Maps Integration
 
 ---
